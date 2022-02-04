@@ -4,6 +4,6 @@ import org.junit.*;
 public class durkillesburgTester {
     @Test 
     public void satisFactorOne() {
-        assertEquals(1000, durkillesburg.gregg("mae"));
+        assertEquals(1000, durkillesburg.gregg("Angus"));
     }
 }
